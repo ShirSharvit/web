@@ -61,8 +61,8 @@ div {
     
 }
 .photos{
-    padding-top: 3%;
-    padding-bottom:3%;
+    padding-top: 5%;
+    padding-bottom:2%;
 }
 
 .photos img {
@@ -74,8 +74,8 @@ div {
 .likes {
     text-align: center;
     margin: auto;
-   padding-top: 3%;
-    padding-bottom:3%;
+   padding-top: 5%;
+    padding-bottom:2%;
 }
 
 .hero {
@@ -231,20 +231,20 @@ h3:before {
 .qrcode {
    align-items: center;
     text-align: center;
-     padding-top: 3%;
-    padding-bottom:3%;
+    padding-top: 5%;
+    padding-bottom:2%;
 }
 .about{
-    padding-top: 3%;
-    padding-bottom:3%;
+    padding-top: 5%;
+    padding-bottom:2%;
 }
 .playlist{
-    padding-top: 3%;
-    padding-bottom:3%;
+   padding-top: 5%;
+    padding-bottom:2%;
 }
 .q&a{
-     padding-top: 3%;
-    padding-bottom:3%;
+    padding-top: 5%;
+    padding-bottom:2%;
 }
     
     
