@@ -58,7 +58,9 @@ div {
     width: 700px;
     margin-left: auto;
     margin-right: auto;
-    margin-top: auto;
+    margin-top: 8%;
+    margin-bottom:10%;
+    
 }
 
 .photos img {
