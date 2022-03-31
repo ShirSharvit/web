@@ -200,7 +200,7 @@ textarea:valid~label {
 }
 
 h3 {
-    margin-top: auto;
+    margin-top:5%;
     margin: 20;
     display: grid;
     width: 100%;
