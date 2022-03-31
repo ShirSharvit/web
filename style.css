@@ -2,6 +2,8 @@ body {
     margin-top: auto;
     background-color: #ffffff;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+
 }
 
 .header {
@@ -49,11 +51,7 @@ title {
     position: fixed;
 }
 
-p {
-    color: #000000;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 30px;
-}
+
 
 div {
     width: 700px;
