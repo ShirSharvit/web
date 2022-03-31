@@ -222,3 +222,8 @@ h3:after {
 h3:before {
     background: linear-gradient(to right, #000000, transparent);
 }
+
+.qrcode {
+   align-items: center;
+    text-align: center;
+}
