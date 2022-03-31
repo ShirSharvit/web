@@ -62,7 +62,7 @@ div {
 }
 .photos{
     padding-top: 8%;
-    padding-bottom:10%;
+    padding-bottom:5%;
 }
 
 .photos img {
@@ -75,7 +75,7 @@ div {
     text-align: center;
     margin: auto;
     padding-top: 8%;
-    padding-bottom:10%;
+    padding-bottom:5%;
 }
 
 .hero {
@@ -232,19 +232,19 @@ h3:before {
    align-items: center;
     text-align: center;
      padding-top: 8%;
-    padding-bottom:10%;
+    padding-bottom:5%;
 }
 .about{
     padding-top: 8%;
-    padding-bottom:10%;
+    padding-bottom:5%;
 }
 .playlist{
     padding-top: 8%;
-    padding-bottom:10%;
+    padding-bottom:5%;
 }
 .q&a{
      padding-top: 8%;
-    padding-bottom:10%;
+    padding-bottom:5%;
 }
     
     
